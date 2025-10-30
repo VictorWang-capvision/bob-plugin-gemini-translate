@@ -42,8 +42,15 @@
         {
           "title": "gemini-1.5-pro-002",
           "value": "gemini-1.5-pro-002"
+        },
+        {
+          "title": "gemini-2.5-flash",
+          "value": "gemini-2.5-flash-latest"
+        },
+        {
+          "title": "gemini-2.5-pro",
+          "value": "gemini-2.5-pro-latest"
         }
-
       ],
       "desc": "使用的Gemini模型."
     },
